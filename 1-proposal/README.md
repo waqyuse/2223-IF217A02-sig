@@ -70,3 +70,23 @@
     <td>[[106.03794 -6.39284693], [106.03794 -6.39284693], [106.03794 -6.39284693]]</td>
   </tr>
 </table>
+
+<h4>User</h4>
+
+<table>
+  <tr>
+    <th>Nama Atribut</th>
+    <th>Tipe Data</th>
+    <th>Contoh</th>
+  </tr>
+  <tr>
+    <td>UUID</td>
+    <td>string</td>
+    <td>ooj73849r734mf34r3</td>
+  </tr>
+  <tr>
+    <td>Nama User</td>
+    <td>string</td>
+    <td>Waqyu Setiadi</td>
+  </tr>
+</table>
