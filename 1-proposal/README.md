@@ -25,3 +25,23 @@
 </ul>
 
 <h2>Struktur Data</h2>
+
+<h4>Tempat</h4>
+
+<table>
+  <tr>
+    <th>Nama Atribut</th>
+    <th>Tipe Data</th>
+    <th>Contoh</th>
+  </tr>
+  <tr>
+    <td>UUID</td>
+    <td>string</td>
+    <td>ooj73849r734mf34r3</td>
+  </tr>
+  <tr>
+    <td>Nama Tempat</td>
+    <td>string</td>
+    <td>Kampung Cimekar</td>
+  </tr>
+</table>
