@@ -44,4 +44,29 @@
     <td>string</td>
     <td>Kampung Cimekar</td>
   </tr>
+  <tr>
+    <td>Nama Masyarakat</td>
+    <td>string</td>
+    <td>Wawan Sudrajat</td>
+  </tr>
+  <tr>
+    <td>No KTP</td>
+    <td>integer</td>
+    <td>098209572309520352</td>
+  </tr>
+  <tr>
+    <td>Kategori</td>
+    <td>integer</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><i class="fa-regular fa-earth-asia"></i>Koordinat</td>
+    <td>poin</td>
+    <td>[106.03794 -6.39284693]</td>
+  </tr>
+  <tr>
+    <td><i class="fa-regular fa-earth-asia"></i>Area</td>
+    <td>polygon</td>
+    <td>[[106.03794 -6.39284693], [106.03794 -6.39284693], [106.03794 -6.39284693]]</td>
+  </tr>
 </table>
