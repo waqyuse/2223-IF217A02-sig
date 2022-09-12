@@ -90,3 +90,7 @@
     <td>Waqyu Setiadi</td>
   </tr>
 </table>
+
+<h4>MOCKUP UX </h4>
+<h5>Saya melakukan MockUp di Balsamiq</h5>
+<a href="">https://balsamiq.cloud/saxpos/podwl67</a>
